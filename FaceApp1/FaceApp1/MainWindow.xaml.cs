@@ -28,7 +28,7 @@ namespace FaceApp1
 
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
 
         private async void BrowseButton_Click(object sender, RoutedEventArgs e)
